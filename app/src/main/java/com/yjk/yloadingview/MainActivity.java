@@ -6,8 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.yjk.yloadingview.loading.YLoadingStyle;
-import com.yjk.yloadingview.loading.YLoadingView;
+
+import com.yjk.yloadingviewlib.loading.YLoadingStyle;
+import com.yjk.yloadingviewlib.loading.YLoadingView;
 
 import java.util.ArrayList;
 

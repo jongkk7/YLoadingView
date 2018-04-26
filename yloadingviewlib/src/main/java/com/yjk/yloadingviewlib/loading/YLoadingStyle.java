@@ -1,6 +1,6 @@
-package com.yjk.yloadingview.loading;
+package com.yjk.yloadingviewlib.loading;
 
-import com.yjk.yloadingview.R;
+import com.yjk.yloadingviewlib.R;
 
 /**
  * Created by yjk on 2018. 4. 25..

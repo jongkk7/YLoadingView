@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/YLoadingView.iml" filepath="$PROJECT_DIR$/YLoadingView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yloadingviewlib/yloadingviewlib.iml" filepath="$PROJECT_DIR$/yloadingviewlib/yloadingviewlib.iml" />
     </modules>
   </component>
 </project>
