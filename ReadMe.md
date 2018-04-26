@@ -28,8 +28,9 @@ It is much less memory than using gif or frame animation.<br>
   }
 
   dependencies {
-  	        compile 'com.github.jongkk7:YLoadingView:1.0.1'
-	}
+  	        compile 'com.github.jongkk7:YLoadingView:1.0.2'
+            // compile 'com.github.jongkk7:YLoadingView:{last version}'
+  }
 ```
 
 ## Useable
@@ -41,6 +42,7 @@ It is much less memory than using gif or frame animation.<br>
 > tip!<br>
 > You can download the Lottie animation and customize it.<br>
 > Click here -> [Lottie Animation page](https://www.lottiefiles.com/popular)
+> new YLoadingView.Builder().builder(this, json).show();
 
 ## Styles
 + simple_loading01 ~ 05
