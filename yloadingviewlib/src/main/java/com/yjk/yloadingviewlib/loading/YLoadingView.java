@@ -8,7 +8,7 @@ import android.support.annotation.NonNull;
 import android.view.Window;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.yjk.yloadingview.R;
+import com.yjk.yloadingviewlib.R;
 
 /**
  * Created by yjk on 2018. 4. 25..
