@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YLoadingView</string>
+
+    <string name="button_simple">Show simple loadings</string>
+    <string name="button_dynamic">Show dynamic loadings</string>
+    <string name="button_material">Show material loadings</string>
+    <string name="button_unique">Show unique loadings</string>
+</resources>
